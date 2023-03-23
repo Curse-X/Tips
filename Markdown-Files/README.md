@@ -35,7 +35,7 @@
 > 
 > [Example Site](https://example.com)
 > <email@email.com>
-> ![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+> ![Google Logo](googlelogo_logo.png)
 > 1. Numbered List-item
 > - Bulleted List-item
 > + Bulleted List-item
